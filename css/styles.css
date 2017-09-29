@@ -1,0 +1,35 @@
+body {
+  background-image: url(../images/night2.jpg);
+  color: white;
+}
+
+.top-left {
+  float: left;
+  margin-bottom: 400px;
+}
+
+.top-right {
+  float:right;
+}
+
+.buttom-left {
+  float: left;
+
+}
+
+.buttom-right {
+  float: right;
+}
+
+#pingpong {
+  text-align: center;
+}
+
+.main {
+
+  text-align: center;
+  padding-top: 300px;
+  padding-bottom: 300px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
